@@ -26,8 +26,8 @@ const BASE_PUBLIC_URL = "NGROK_URL";
 // ==============================
 const BASE_URL = "ODATA_URL";
 
-const username = "USERNAME";
-const password = "PASSWORD";
+const username = "SAP_USER";
+const password = "SAP_PASS";
 
 const authHeader = Buffer.from(`${username}:${password}`).toString('base64');
 
@@ -288,7 +288,7 @@ app.post('/webhook', async (req, res) => {
     } catch (err) {
         console.log("ERROR:", err.message);
     }
-
+    
     res.sendStatus(200);
 });
 
