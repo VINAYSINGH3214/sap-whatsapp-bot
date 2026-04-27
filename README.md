@@ -1,4 +1,4 @@
-# SAP-WHATSAPP-INTERGRATION
+# SAP-WHATSAPP-BOT
 
 Whatsapp Chat-Bot for SAP
 
