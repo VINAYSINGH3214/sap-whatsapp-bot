@@ -2,13 +2,13 @@
 
 Whatsapp Chat-Bot for SAP
 
-# SAP WhatsApp Bot (Free Architecture)
+# 🚀 SAP WhatsApp Bot (Free Architecture)
 
 A real-time chatbot that integrates **SAP OData** with **WhatsApp Cloud API** to fetch material details and generate downloadable PDF reports 📄
 
 ---
 
-##  Features
+## 🔥 Features
 
 - 📦 Fetch material details from SAP (MATNR)
 - 💬 WhatsApp chatbot interface
@@ -19,7 +19,7 @@ A real-time chatbot that integrates **SAP OData** with **WhatsApp Cloud API** to
 
 ---
 
-##  Tech Stack
+## 🧠 Tech Stack
 
 - Node.js
 - Express.js
@@ -30,7 +30,7 @@ A real-time chatbot that integrates **SAP OData** with **WhatsApp Cloud API** to
 
 ---
 
-##  How It Works
+## ⚙️ How It Works
 
 1. User sends material number on WhatsApp  
 2. Bot calls SAP OData API  
@@ -40,3 +40,11 @@ A real-time chatbot that integrates **SAP OData** with **WhatsApp Cloud API** to
    - Download PDF report  
 
 ---
+
+## 📦 Setup Instructions
+
+### 1️⃣ Clone Repo
+
+```bash
+git clone https://github.com/YOUR_USERNAME/sap-whatsapp-bot.git
+cd sap-whatsapp-bot
