@@ -46,5 +46,5 @@ A real-time chatbot that integrates **SAP OData** with **WhatsApp Cloud API** to
 ### 1️⃣ Clone Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sap-whatsapp-bot.git
+git clone https://github.com/VINAYSINGH3214/sap-whatsapp-bot.git
 cd sap-whatsapp-bot
